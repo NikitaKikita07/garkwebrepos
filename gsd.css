@@ -1,0 +1,113 @@
+.krug1{
+    position: absolute;
+    width: 504px;
+    height: 504px;
+    border-radius: 504px;
+    border: 5px solid #535557;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 300px;
+}
+.krug2{
+    position: absolute;
+    width: 284px;
+    height: 284px;
+    border-radius: 284px;
+border: 39px solid #535557;
+margin: auto;
+top: 75px;
+
+}
+.kart1{
+    position: absolute;
+
+   top: 90px;
+ 
+
+}
+.kart2{
+    position: absolute;
+    left: 400px;
+    top: -400px;
+    animation: roma 10s linear infinite;
+}
+.kart3{
+    position: absolute;
+    left: 450px;
+    top: 100px;
+    animation: roma 10s linear infinite;
+
+}
+.kart4{
+    position: absolute;
+    top: -400px;
+    left: 180px;
+
+}
+.kart5{
+    position: absolute;
+top: -50px;
+  /* animation: roma 10s linear infinite; */
+
+}
+.kart6{
+    position: absolute;
+  top: 290px; 
+  left: 320px; 
+  /* animation: roma 10s linear infinite; */
+
+}
+.kart7{
+    position: absolute;
+   
+  left: 50px;
+    /* animation: roma 10s linear infinite; */
+
+}
+.kart8{
+    position: absolute;
+    top: -300px;
+    left: -60px;
+
+
+}
+.kart9{
+    position: absolute;
+    top: -85px;
+    left: 20px;
+
+}
+/* .roma{ */
+    /* animation: roma 10s linear infinite; */
+
+/* } */
+/* .anim{ */
+    /* animation: rotateright 10s infinite linear ; */
+/* } */
+/* @keyframes roma{ */
+    /* 0%{ */
+        /* transform: rotate(0deg);    */
+/*  */
+    /* } */
+    /* 100%{ */
+        /* transform: rotate(-360deg);    */
+
+    /* } */
+/* } */
+/* @keyframes rotateright{ */
+    /* 0%{ */
+        /* transform: rotate(0deg);    */
+
+    /* } */
+    /* 100%{ */
+        /* transform: rotate(360deg);    */
+
+    /* } */
+    /* from {
+     transform: rotate(0deg);   
+    }
+    to {
+        transform: rotate(360deg);   
+    } */
+/* } */

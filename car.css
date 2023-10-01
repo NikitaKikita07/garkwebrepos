@@ -171,7 +171,7 @@ article>*+* {
     font-size: 16px;
     font-style: normal;
 font-weight: 500;
-
+}
 .line{
     width: 279px;
     height: 1px;
@@ -753,4 +753,3 @@ margin-right: 50px;
         display: none !important;
     }
 }
-
